@@ -21,7 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://apply-now-web-test.azurewebsites.net/')
 
-WebUI.takeScreenshot()
-
 WebUI.closeBrowser()
 
